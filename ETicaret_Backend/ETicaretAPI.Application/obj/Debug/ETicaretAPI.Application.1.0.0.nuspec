@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ETicaretAPI.Application</id>
+    <version>1.0.0</version>
+    <authors>ETicaretAPI.Application</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="ETicareAPI.Domain" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="11.5.1" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation.AspNetCore" version="11.2.2" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation.DependencyInjectionExtensions" version="11.5.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="6.0.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\Core\ETicaretAPI.Application\bin\Debug\net6.0\ETicaretAPI.Application.dll" target="lib\net6.0\ETicaretAPI.Application.dll" />
+  </files>
+</package>

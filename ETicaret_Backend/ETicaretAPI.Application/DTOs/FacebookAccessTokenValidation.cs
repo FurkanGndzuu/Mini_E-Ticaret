@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json.Serialization;
+using System.Threading.Tasks;
+
+namespace ETicaretAPI.Application.DTOs
+{
+    public class FacebookAccessTokenValidation
+    {
+        [JsonPropertyName("data")]
+        public Data data { get; set; }
+    }
+
+    public class Data
+    {
+        [JsonPropertyName("is_valid")]
+        public bool IsValid { get; set; }
+        [JsonPropertyName("user_id")]
+        public string UserId { get; set; }
+    }
+}

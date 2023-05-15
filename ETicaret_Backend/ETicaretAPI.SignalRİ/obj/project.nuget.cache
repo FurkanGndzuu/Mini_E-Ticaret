@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "8cBIDfmeje6GbV2qZs6isf4BTWbVVFtFumkBCmsRuLm98ypmK4nw9aWe0J3yIDfowsHCt0apAaVMapWQxXIXmQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Mini_E-Ticaret\\ETicaret\\ETicaret_Backend\\ETicaretAPI.SignalRİ\\ETicaretAPI.SignalR.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\furka\\OneDrive\\Masaüstü\\Mini_E-Ticaret\\ETicaret\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Mini_E-Ticaret\\ETicaret\\Core\\ETicaretAPI.Application\\ETicaretAPI.Application.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

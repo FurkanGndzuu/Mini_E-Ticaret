@@ -1,0 +1,17 @@
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\bin\Debug\net6.0\ETicaretAPI.SignalR.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\bin\Debug\net6.0\ETicaretAPI.SignalR.dll
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\bin\Debug\net6.0\ETicaretAPI.SignalR.pdb
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\bin\Debug\net6.0\ETicareAPI.Domain.dll
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\bin\Debug\net6.0\ETicareAPI.Domain.pdb
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ETicaretAPI.SignalR.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ETicaretAPI.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ETicaretAPI.SignalR.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ETicaretAPI.SignalR.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ETicaretAPI.SignalR.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ETicaretAPI.SignalR.csproj.CopyComplete
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ETicaretAPI.SignalR.dll
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\refint\ETicaretAPI.SignalR.dll
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ETicaretAPI.SignalR.pdb
+C:\Users\furka\OneDrive\Masaüstü\Mini_E-Ticaret\ETicaretAPI\ETicaretAPI.SignalRİ\obj\Debug\net6.0\ref\ETicaretAPI.SignalR.dll

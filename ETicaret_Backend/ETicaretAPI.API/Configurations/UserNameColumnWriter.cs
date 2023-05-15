@@ -1,0 +1,20 @@
+﻿using Serilog.Events;
+using Serilog.Sinks.PostgreSQL;
+
+namespace ETicaretAPI.API.Configurations
+{
+    public class UserNameColumnWriter : ColumnWriterBase
+    {
+        public UserNameColumnWriter() : base(NpgsqlTypes.NpgsqlDbType.Text)
+        {
+                
+        }
+
+        public override object GetValue(LogEvent logEvent, IFormatProvider formatProvider = null)
+        {
+           var (username ,value ) = logEvent.Properties.FirstOrDefault(p => p.Key == "user_name");
+
+            return value?.ToString() ?? null;
+        }
+    }
+}
